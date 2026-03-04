@@ -1,4 +1,4 @@
-package GroupId: com.carlos;
+package com.carlos;
 
 /**
  * Hello world!

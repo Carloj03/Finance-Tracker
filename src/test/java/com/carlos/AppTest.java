@@ -1,4 +1,4 @@
-package GroupId: com.carlos;
+package com.carlos;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
